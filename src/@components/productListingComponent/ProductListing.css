@@ -1,0 +1,9 @@
+.bg-info.rounded-circle.d-flex.align-items-center.justify-content-center.shadow-1-strong {
+  width: 35px;
+  height: 35px;
+}
+
+.hover-overlay .mask {
+  background-color: rgba(68, 68, 68, 0.15);
+  cursor: pointer;
+}
